@@ -1,7 +1,7 @@
 {
-    "name": "muplugin/asse-filter-attachment-url",
+    "name": "axelspringer/wp-mu-filter-attachment-url",
     "type": "wordpress-muplugin",
-    "description": "asse-filter-attachment-url",
+    "description": "wp-mu-filter-attachment-url",
     "keywords": [
         "wordpress",
         "muplugin"
@@ -10,11 +10,15 @@
         {
             "name": "Developer",
             "homepage": "http://www.axelspringer.de"
+        },
+        {
+            "name": "Mathias Witt",
+            "homepage": "http://www.axelspringer.de"
         }
     ],
-    "homepage": "https://as-stash.axelspringer.de/projects/WPMUP/repos/asse-filter-attachment-url/browse",
-    "license": "proprietary",
+    "homepage": "https://github.com/axelspringer/wp-mu-filter-attachment-url",
+    "license": "Apache-2.0",
     "extra": {
-        "installer-name": "asse-filter-attachment-url"
+        "installer-name": "wp-mu-filter-attachment-url"
     }
 }
